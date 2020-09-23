@@ -8,6 +8,8 @@ I'm IT Student, computer geek that love new technologies, I'm always trying to l
 
 Because of things I like I always tried to keep them together, that's why you can find Minesweeper in JS or games in PixiJS in my repositories! I'm really happy I can keep my passion to Frontend and those games together and I would love to be part of bigger projects using this technologies.
 
+I know slots from client side. I know a lot of providers and their games and I also know what people like in those games and which games are clients' favorite ones. Gambling industry is really fun for me and I'd want to take more significant part of it.
+
 ## Currently working with:
 ![Angular](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/Angular.webp)
 ![HTML5](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/HTML5.webp)
