@@ -10,3 +10,13 @@ Beacuse of things I like I always tried to keep them together, that's why you ca
 
 ## Currently working with:
 ![Angular](/assets/Angular.webp)
+![HTML5](/assets/HTML5.webp)
+![CSS3](/assets/CSS3.webp)
+![SASS](/assets/SASS.webp)
+![JS](/assets/js.webp)
+![TS](/assets/ts.webp)
+![jQuery](/assets/jQuery.webp)
+![PixiJS](/assets/pixi.webp)
+![Git](/assets/Git.webp)
+![npm](/assets/npm.webp)
+![webpack](/assets/webpack.webp)
