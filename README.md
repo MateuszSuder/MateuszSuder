@@ -9,7 +9,7 @@ I'm IT Student, computer geek that love new technologies, I'm always trying to l
 Beacuse of things I like I always tried to keep them together, that's why you can find Minesweeper in JS or games in PixiJS on in my repositories! I'm really happy I can keep my passion to Frontend and those games together and I would love to be part of bigger projects using this technologies.
 
 ## Currently working with:
-![Angular](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/npm.webp)
+![Angular](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/Angular.webp)
 ![HTML5](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/HTML5.webp)
 ![CSS3](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/CSS3.webp)
 ![SASS](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/SASS.webp)
