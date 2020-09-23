@@ -20,3 +20,11 @@ Beacuse of things I like I always tried to keep them together, that's why you ca
 ![Git](/assets/Git.webp)
 ![npm](/assets/npm.webp)
 ![webpack](/assets/webpack.webp)
+![VScode](/assets/vs.webp)
+
+## Worked also with:
+![C++](/assets/cpp.webp)
+![Java](/assets/java.webp)
+![PHP](/assets/Angular.webp)
+![Nodejs](/assets/node.webp)
+![MySQL](/assets/mySQL.webp)
