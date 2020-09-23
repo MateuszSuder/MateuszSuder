@@ -1,7 +1,7 @@
 ### Welcome!
 My name is Mateusz Suder and I'm on my way to become Frontend Developer!
 
-Frontend is my passion since 5 years now, I've learned a lot since then and I think now is the time for my dream to come true and be included in some bigger projects that I would loved to be part of!
+Frontend is my passion for 5 years now, I've learned a lot since then and I think now is the time for my dream to come true and be included in some bigger projects that I would loved to be part of!
 
 ## Some more about me
 I'm IT Student, computer geek that love new technologies, I'm always trying to learn something new from them. I always loved this original games like minesweeper or tetris and now I'm really into Online Casinos, mostly Slot machines, but I think of them more like art or just pure fun than gambling.
