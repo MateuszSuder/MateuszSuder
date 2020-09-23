@@ -6,7 +6,7 @@ Frontend is my passion since 5 years now, I've learned a lot since then and I th
 ## Some more about me
 I'm IT Student, computer geek that love new technologies, I'm always trying to learn something new from them. I always loved this original games like minesweeper or tetris and now I'm really into Online Casinos, mostly Slot machines, but I think of them more like art or just pure fun than gambling.
 
-Beacuse of things I like I always tried to keep them together, that's why you can find Minesweeper in JS or games in PixiJS on in my repositories! I'm really happy I can keep my passion to Frontend and those games together and I would love to be part of bigger projects using this technologies.
+Because of things I like I always tried to keep them together, that's why you can find Minesweeper in JS or games in PixiJS in my repositories! I'm really happy I can keep my passion to Frontend and those games together and I would love to be part of bigger projects using this technologies.
 
 ## Currently working with:
 ![Angular](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/Angular.webp)
