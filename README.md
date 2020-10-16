@@ -27,6 +27,6 @@ I know slots from client side. I know a lot of providers and their games and I a
 ## Worked also with:
 ![C++](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/cpp.webp)
 ![Java](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/java.webp)
-![PHP](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/Angular.webp)
+![PHP](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/PHP.webp)
 ![Nodejs](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/node.webp)
 ![MySQL](https://raw.githubusercontent.com/MateuszSuder/MateuszSuder/master/assets/mySQL.webp)
